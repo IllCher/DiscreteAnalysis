@@ -17,4 +17,4 @@
  
  [Lab9: Реализация алгоритма Беллмана-Форда](https://github.com/IllCher/DiscreteAnalysis/tree/main/DA_lab9)
  
- [CP: Разработка наивного байесовского классификатора](https://github.com/IllCher/DiscreteAnalysis/tree/main/DA_KP)
+ [CP: Разработка наивного байесовского классификатора](https://github.com/IllCher/DiscreteAnalysis/tree/main/da_kp)
