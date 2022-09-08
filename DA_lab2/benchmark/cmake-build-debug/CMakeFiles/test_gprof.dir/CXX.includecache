@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Study/Labs2course/DA_lab2/benchmark/test.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+cstdio
+-
+fstream
+-
+chrono
+-
+map
+-
+vector
+-
+

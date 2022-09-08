@@ -1,0 +1,4 @@
+/mnt/d/Study/Labs2course/DA_lab2/benchmark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Study/Labs2course/DA_lab2/benchmark/cmake-build-debug/CMakeFiles/benchmark.dir
+/mnt/d/Study/Labs2course/DA_lab2/benchmark/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Study/Labs2course/DA_lab2/benchmark/cmake-build-debug/CMakeFiles/test_gprof.dir
